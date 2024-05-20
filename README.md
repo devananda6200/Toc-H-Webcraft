@@ -22,10 +22,10 @@ Here're some of the project's best features:
 
 <h2>🛠 Installation Steps:</h2>
 
-<p>1. Clone the repository</p>
+<p>1. Clone the repository</p>  
 
 
-git clone https://github.com/FestinBiju/toc-h-website.git cd toc-h-website
+git clone  https://github.com/devananda6200/Toc-H-Webcraft cd toc-h-website
 
  
   
